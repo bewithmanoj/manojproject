@@ -19,11 +19,19 @@
     myfunction();
     echo "<br>";
 
-    # this is single line comment in php 
-    /* this milti line comment */
-    #this is for test request
+    // This is a single-line comment
 
-    $a = 115;
+    # This is also a single-line comment
+
+    /*
+    This is a multiple-lines comment block
+    that spans over multiple
+    lines
+    */
+
+    // You can also use comments to leave out parts of a code line 
+
+    $a = 115 /* + 15 */ ;
     $b = 30;
 
     if ($a == 15) {

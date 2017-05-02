@@ -24,9 +24,8 @@
 	echo "<br>";
 	myfunction();
 	echo "<br>";
-# this is single line comment in php 
-/* this milti
-	line comment */
+ # this is single line comment in php 
+/* this milti line comment */
 
 
 $a = 115;

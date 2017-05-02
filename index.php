@@ -19,7 +19,7 @@
     myfunction();
     echo "<br>";
 
-    // This is a single-line comment
+    // This is a single-line comment123
 
     # This is also a single-line comment
 
